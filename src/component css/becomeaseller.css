@@ -1,0 +1,19 @@
+.dot{
+    height: 38px;
+  width: 38px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot1{
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.learnmore{
+  font-weight: bold;
+}
+.knowmore{
+  font-weight: bold;
+  
+}

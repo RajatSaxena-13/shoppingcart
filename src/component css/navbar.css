@@ -1,0 +1,23 @@
+.navbar-brand{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+.navbar-brand::first-letter{
+    font-size: 35px;
+    color: indianred;
+}
+.nav-item a{
+    font-size: 18px;
+    /* margin-left: 10px; */
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.nav-link{
+    margin-left: 13px;
+}
+.button1{
+    padding: 5px 30px;
+}
